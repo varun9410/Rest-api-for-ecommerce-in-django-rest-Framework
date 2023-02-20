@@ -1,2 +1,2 @@
 # Ecommerce api
-File sharing api using django rest framework. where user can share files using this api
+THis is rest api for ecommerce application with django rest framework
